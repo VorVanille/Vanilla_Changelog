@@ -6,11 +6,9 @@
 ### Note 3: VorVanille builds are NOT public. Vanilla builds (usually) are.
 
 ### Known Bugs
-- Dialer warning
-- Vendor warning
+- Clicking on vanilla in Vanilla Info causes settings to FC
 - Ugly as fuck settings
 - No notification sounds
-- String fails
 - Shamu BT
 - MusicFX bugs
 - Random FCs
@@ -22,3 +20,12 @@
 - Vanilla about in settings
 - Theme options
 - Always On display
+
+### VorVanille 7.1 Oreo
+- Fix Vendor warning
+- Fix Dialer warning
+- Fix string fails
+- Fix padding on vanilla info
+- Added Changelog link
+- Added Telegram link
+- Added G+ link
